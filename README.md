@@ -1,5 +1,4 @@
 # hello-world
-refresher
 
 Hi folks
 
